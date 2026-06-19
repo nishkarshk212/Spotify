@@ -1,0 +1,10 @@
+[19-Jun-26 18:10:38 - INFO] - spotify: Cache directories updated.
+[19-Jun-26 18:10:38 - INFO] - spotify: Loaded languages: 
+[19-Jun-26 18:15:09 - INFO] - spotify: Cache directories updated.
+[19-Jun-26 18:15:09 - INFO] - spotify: Loaded languages: 
+[19-Jun-26 18:38:17 - INFO] - spotify: Cache directories updated.
+[19-Jun-26 18:38:17 - INFO] - spotify: Loaded languages: zh, ja, de, ru, pt, en, pa, my, fr, hi, es, ar
+[19-Jun-26 18:46:58 - INFO] - spotify: Cache directories updated.
+[19-Jun-26 18:46:58 - INFO] - spotify: Loaded languages: zh, ja, de, ru, pt, en, pa, my, fr, hi, es, ar
+[19-Jun-26 18:48:27 - INFO] - spotify: Cache directories updated.
+[19-Jun-26 18:48:27 - INFO] - spotify: Loaded languages: zh, ja, de, ru, pt, en, pa, my, fr, hi, es, ar
