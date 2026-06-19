@@ -45,7 +45,31 @@ class Bot(pyrogram.Client):
 
         if get.status != pyrogram.enums.ChatMemberStatus.ADMINISTRATOR:
             raise SystemExit("Please promote the bot as an admin in logger group.")
+        
+        await self.set_bot_commands()
         logger.info(f"Bot started as @{self.username}")
+
+    async def set_bot_commands(self):
+        """Set bot commands for command suggestions when typing /"""
+        commands = [
+            pyrogram.types.BotCommand("start", "Start the bot"),
+            pyrogram.types.BotCommand("help", "Show help menu"),
+            pyrogram.types.BotCommand("play", "Play music"),
+            pyrogram.types.BotCommand("vplay", "Play video"),
+            pyrogram.types.BotCommand("playforce", "Force play music"),
+            pyrogram.types.BotCommand("vplayforce", "Force play video"),
+            pyrogram.types.BotCommand("pause", "Pause the stream"),
+            pyrogram.types.BotCommand("resume", "Resume the stream"),
+            pyrogram.types.BotCommand("skip", "Skip current track"),
+            pyrogram.types.BotCommand("stop", "Stop the stream"),
+            pyrogram.types.BotCommand("queue", "Show queue"),
+            pyrogram.types.BotCommand("ping", "Check bot ping"),
+            pyrogram.types.BotCommand("stats", "Show bot stats"),
+            pyrogram.types.BotCommand("settings", "Bot settings"),
+            pyrogram.types.BotCommand("playmode", "Admin only play mode"),
+            pyrogram.types.BotCommand("lang", "Change language"),
+        ]
+        await super().set_bot_commands(commands)
 
     async def exit(self):
         """
