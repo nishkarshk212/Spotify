@@ -8,3 +8,54 @@
 [19-Jun-26 18:46:58 - INFO] - spotify: Loaded languages: zh, ja, de, ru, pt, en, pa, my, fr, hi, es, ar
 [19-Jun-26 18:48:27 - INFO] - spotify: Cache directories updated.
 [19-Jun-26 18:48:27 - INFO] - spotify: Loaded languages: zh, ja, de, ru, pt, en, pa, my, fr, hi, es, ar
+[19-Jun-26 19:10:05 - INFO] - spotify: Cache directories updated.
+[19-Jun-26 19:10:05 - INFO] - spotify: Loaded languages: zh, ja, de, ru, pt, en, pa, my, fr, hi, es, ar
+[19-Jun-26 19:12:27 - INFO] - spotify: Cache directories updated.
+[19-Jun-26 19:12:27 - INFO] - spotify: Loaded languages: zh, ja, de, ru, pt, en, pa, my, fr, hi, es, ar
+[19-Jun-26 19:14:48 - INFO] - spotify: Cache directories updated.
+[19-Jun-26 19:14:48 - INFO] - spotify: Loaded languages: zh, ja, de, ru, pt, en, pa, my, fr, hi, es, ar
+[19-Jun-26 19:20:37 - INFO] - spotify: Cache directories updated.
+[19-Jun-26 19:20:37 - INFO] - spotify: Loaded languages: zh, ja, de, ru, pt, en, pa, my, fr, hi, es, ar
+[19-Jun-26 19:20:40 - INFO] - spotify: Database connection successful. (2.27s)
+[19-Jun-26 19:20:41 - INFO] - spotify: Database cache loaded.
+[19-Jun-26 19:20:48 - INFO] - spotify: Bot started as @spotify_music_212_bot
+[19-Jun-26 19:20:50 - INFO] - spotify: Assistant 1 started as @None
+[19-Jun-26 19:20:50 - INFO] - spotify: PyTgCalls client(s) started.
+[19-Jun-26 19:20:50 - INFO] - spotify: Loaded 21 modules.
+[19-Jun-26 19:20:50 - INFO] - spotify: Loaded 1 sudo users.
+[19-Jun-26 19:24:26 - INFO] - spotify: Stopping...
+[19-Jun-26 19:24:26 - INFO] - spotify: Bot stopped.
+[19-Jun-26 19:24:26 - INFO] - spotify: Assistants stopped.
+[19-Jun-26 19:24:26 - INFO] - spotify: Database connection closed.
+[19-Jun-26 19:24:26 - INFO] - spotify: Stopped.
+
+[19-Jun-26 21:07:12 - INFO] - spotify: Cache directories updated.
+[19-Jun-26 21:07:12 - INFO] - spotify: Loaded languages: zh, ja, de, ru, pt, en, pa, my, fr, hi, es, ar
+[19-Jun-26 21:07:15 - INFO] - spotify: Database connection successful. (2.28s)
+[19-Jun-26 21:07:16 - INFO] - spotify: Database cache loaded.
+[19-Jun-26 21:07:18 - INFO] - spotify: Bot started as @spotify_music_212_bot
+[19-Jun-26 21:07:20 - INFO] - spotify: Assistant 1 started as @None
+[19-Jun-26 21:07:20 - INFO] - spotify: PyTgCalls client(s) started.
+[19-Jun-26 21:07:20 - INFO] - spotify: Loaded 21 modules.
+[19-Jun-26 21:07:20 - INFO] - spotify: Loaded 1 sudo users.
+[19-Jun-26 21:24:42 - INFO] - spotify: Stopping...
+[19-Jun-26 21:24:42 - INFO] - spotify: Bot stopped.
+[19-Jun-26 21:24:42 - INFO] - spotify: Assistants stopped.
+[19-Jun-26 21:24:42 - INFO] - spotify: Database connection closed.
+[19-Jun-26 21:24:42 - INFO] - spotify: Stopped.
+
+[19-Jun-26 21:25:02 - INFO] - spotify: Cache directories updated.
+[19-Jun-26 21:25:02 - INFO] - spotify: Loaded languages: zh, ja, de, ru, pt, en, pa, my, fr, hi, es, ar
+[19-Jun-26 21:25:06 - INFO] - spotify: Database connection successful. (3.35s)
+[19-Jun-26 21:25:07 - INFO] - spotify: Database cache loaded.
+[19-Jun-26 21:25:08 - INFO] - spotify: Bot started as @spotify_music_212_bot
+[19-Jun-26 21:25:09 - INFO] - spotify: Assistant 1 started as @None
+[19-Jun-26 21:25:09 - INFO] - spotify: PyTgCalls client(s) started.
+[19-Jun-26 21:25:09 - INFO] - spotify: Loaded 21 modules.
+[19-Jun-26 21:25:10 - INFO] - spotify: Loaded 1 sudo users.
+[19-Jun-26 21:37:44 - INFO] - spotify: Stopping...
+[19-Jun-26 21:37:44 - INFO] - spotify: Bot stopped.
+[19-Jun-26 21:37:44 - INFO] - spotify: Assistants stopped.
+[19-Jun-26 21:37:44 - INFO] - spotify: Database connection closed.
+[19-Jun-26 21:37:44 - INFO] - spotify: Stopped.
+
